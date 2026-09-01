@@ -33,7 +33,7 @@ public class CatalogoArtefactos {
             tipoAct.getTipo();
             //mapeo<
         }
-        return mapeo;
+        //return mapeo;
     }
 
     public Artefacto obtenerArtefactoMasPoderoso(){
