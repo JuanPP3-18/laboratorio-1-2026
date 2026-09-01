@@ -30,7 +30,7 @@ public class CatalogoArtefactos {
         int contador = 0;
         Map<String, Integer> mapeo;
         for(Artefacto tipoAct : catalogo){
-            tipoAct.getTipo();
+            //tipoAct.getTipo();
             //mapeo<
         }
         //return mapeo;
